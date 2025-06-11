@@ -1,6 +1,6 @@
 {
   "clientID": "lYEPb_w4klby3k3xG1Fq1kTtXzsa",
-  "baseUrl": "",
+  "baseUrl": "https://api.asgardeo.io/t/orginterntest", 
   "signInRedirectURL": "https://localhost:3000",
   "signOutRedirectURL": "https://localhost:3000",
   "scope": ["profile"]
